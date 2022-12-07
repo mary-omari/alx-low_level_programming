@@ -1,1 +1,1 @@
-This is a low level programming language
+This is low level programming language.
